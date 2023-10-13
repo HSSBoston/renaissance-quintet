@@ -28,18 +28,13 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - Software code: Raspberry Pi OS setup, required software library and online service accounts, and Python code.
 <!-- Press coverage-->
 
-### Short Project Summary: 
-
-This project aims to embed sonification to daily life and better disseminate cosmic soundscape to the general public by leveraging sonification data in everyday objects such as mirrors, picture frames, refrigerator doors and kitchen counters. We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. They are integrated with the cloud; their operational settings are stored in a cloud data storage, and they can be updated with any Internet-connected devices. 
-
-This project also aims to implement a new sonification algorithm. It's design is driven by music theory, and it is intended to sonify the stars in constellations. Our algorithm analyzes the location of each star in a constellation, produces a musical score that consists of multiple voices (tracks) and synthesizes different instrument sounds (e.g. piano, violin and cello sounds) for different tracks. When mixing multiple tracks, the algorithm produces stereo sound to vividly express "chamber music of a constellation". Our ultimate goal is to help promote "sound logos" of constellations and help any astronomy learners, even toddlers, conceptualize constellations in a new way - whether or not they are familiar with astronomy.
-
-### A Bit Longer Project Summary:
+### Project Summary:
 
 Sonification means transforming astronomical data (telescope images) to sound. It intends to allow people to inspect and communicate astronomical data with the auditory sense as well as the visual sense. Early research studies show its effectiveness in understanding astronomical data. NASA and its partners have carried out various sonification projects with their telescopes such as the Webb, Chandra, Hubble and Spitzer telescopes.
 
 Sonification is interesting and important in many ways for many scientists and space enthusiasts. It's like renaissance in interpreting astronomical data. However, most of the general public don't know about it, probably because sonified sounds are distributed through "pull" media such as YouTube. In fact, most of our our parents, grandparents, friends and teachers didn’t.
 
-Therefore, in this project, we decided to replay sofinifed sounds and display images in everyday objects like mirrors and picture frames, so we can “push” the sounds to nearby people. We also decided to design our own algorithm to sonify constellations. We hope to help everyone, even toddlers, experience and conceptualize the stars in constellations. We carried out this project by using our diverse skills and experience in coding, electronics, musical instruments and music theory.
+Therefore, this project aims to embed sonification to daily life and better disseminate cosmic soundscape to the general public by leveraging sonification data in everyday objects such as mirrors, picture frames, refrigerator doors and kitchen counters. We built "smart" mirrors and picture frames that "push" sonification data to nearby people. Each of them downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display.  Our devices are integrated with the cloud; their operational settings are stored in a cloud data storage, and they can be updated with any Internet-connected devices. 
 
+This project also aims to implement a new sonification algorithm. It's design is driven by music theory, and it is intended to sonify the stars in constellations. Our algorithm analyzes the location of each star in a constellation, produces a musical score that consists of multiple voices (tracks) and synthesizes different instrument sounds (e.g. piano, violin and cello sounds) for different tracks. When mixing multiple tracks, the algorithm produces stereo sound to vividly express "chamber music of a constellation". Our ultimate goal is to help promote "sound logos" of constellations and help any astronomy learners, even toddlers, conceptualize constellations in a new way - whether or not they are familiar with astronomy.
 
