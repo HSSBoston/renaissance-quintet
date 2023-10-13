@@ -12,7 +12,7 @@ We are a team of 5 students who participated in the [2023 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
-We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** there! We are excited to be be one of global nominees.
+We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone Award** there! We are excited to be be one of global nominees.
 
 Our team worked on the [Immersed in the Sounds of Space](https://www.spaceappschallenge.org/2023/challenges/immersed-in-the-sounds-of-space/). We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
 
@@ -22,10 +22,10 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [7-page project summary](https://docs.google.com/presentation/d/1awytJN010U5o6ZXexxGZbdyq2TkI2z6lOsYLfgzPcUU/edit?usp=sharing)
 - Oral presentation video for Boston local judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1Maam6cC-NhNnfkUsv-rYOL-KNHO1_VBS-8JYwZ-wXmE/) at Boston local judging
-- Smart mirror and picture frame prototypes 
-- Sonifier for constellations 
-- Hardware setup: Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
-- Software code: Raspberry Pi OS setup, required software library and online service accounts, and Python code.
+- Smart mirrors and picture frames
+- Constellation Sonifier
+- Hardware setup: Required hardware, LED matrix wiring, e-paper wiring, circuit diagrams, and DIY tips
+- Software code: Raspberry Pi OS setup, required software libraries and online service accounts, and Python code.
 <!-- Press coverage-->
 
 ### Project Summary:
