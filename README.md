@@ -20,13 +20,13 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 
 - [Official team web page](https://www.spaceappschallenge.org/2023/find-a-team/tba-sonification/) at SpaceAppsChallenge.org
 - [7-page project summary](https://docs.google.com/presentation/d/1awytJN010U5o6ZXexxGZbdyq2TkI2z6lOsYLfgzPcUU/edit?usp=sharing)
-- Oral presentation video for Boston local judging
+- [Oral presentation video](https://youtu.be/knsCNAubOXA) for Boston local judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1Maam6cC-NhNnfkUsv-rYOL-KNHO1_VBS-8JYwZ-wXmE/) at Boston local judging
 - Smart mirrors and picture frames
-- Constellation Sonifier
-- Hardware setup: Required hardware, LED matrix wiring, e-paper wiring, circuit diagrams, and DIY tips
-- Software code: Raspberry Pi OS setup, required software libraries and online service accounts, and Python code.
-<!-- Press coverage-->
+- [Constellation Sonifier](sonifier/)
+- Hardware setup: Required hardware, LED matrix wiring, e-paper wiring, circuit diagrams, and DIY tips.
+- Software code: Raspberry Pi OS setup, required software libraries, online service accounts, and Python code.
+<!-- Press coverage https://youtu.be/PuvCo-NGgwE -->
 
 ### Project Summary:
 
