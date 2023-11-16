@@ -12,7 +12,7 @@ We are a team of 5 students who participated in the [2023 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
-We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone Award** there! We are excited to be be one of global nominees.
+We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone Award** there! We are excited to be be [one of Global Finalist Honorable Mentions](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
 
 Our team worked on the [Immersed in the Sounds of Space](https://www.spaceappschallenge.org/2023/challenges/immersed-in-the-sounds-of-space/). We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
 
