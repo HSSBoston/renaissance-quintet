@@ -12,7 +12,7 @@ We are a team of 5 students who participated in the [2023 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
-We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone Award** there! We are excited to be be [one of Global Finalist Honorable Mentions](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
+We participated in the [Boston division](http://spaceappsboston.org/) of Space Apps and won the **1st place** and **Kintone Award** there! We are excited to receive [a Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) from 8,715 teams worldwide (57,999 participants from 152 countries) by NASA and 13 other nations' space agencies!
 
 Our team worked on the [Immersed in the Sounds of Space](https://www.spaceappschallenge.org/2023/challenges/immersed-in-the-sounds-of-space/). We built "smart" mirrors and picture frames, each of which downloads NASA's sonification data, replays its audio portion with a speaker and displays its video/image portion with a digital display. We also designed a new sonification algorithm that sonifies constellations. Our ultimate goal is to embed sonification to daily life and better disseminate cosmic soundscape. 
 
@@ -22,7 +22,7 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [7-page project summary](https://docs.google.com/presentation/d/1awytJN010U5o6ZXexxGZbdyq2TkI2z6lOsYLfgzPcUU/edit?usp=sharing)
 - [Oral presentation video](https://youtu.be/knsCNAubOXA) for Boston local judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/1Maam6cC-NhNnfkUsv-rYOL-KNHO1_VBS-8JYwZ-wXmE/) at Boston local judging
-- Smart mirrors and picture frames
+- [Smart mirrors and picture frames](prototypes/)
 - [Constellation Sonifier](sonifier/)
 - Hardware setup: Required hardware, LED matrix wiring, e-paper wiring, circuit diagrams, and DIY tips.
 - Software code: Raspberry Pi OS setup, required software libraries, online service accounts, and Python code.

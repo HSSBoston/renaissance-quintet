@@ -10,10 +10,21 @@ The design of our sonification algorithm is driven by music theory. Given a set 
 
 The following picture shows the big dipper as an example constellation. It's Alaska's state flag, which contains the Polaris as well as seven stars.
 
+<p align="center">
+<img src="../images/big-dipper.png" width="400"></a>
+</p>
+
 The following picture shows how to place a grid on it and how to determine a five-lined staff and eight extra ledger lines.
 
+<p align="center">
+<img src="../images/big-dipper2.jpg" width="400"></a>
+</p>
 
 Given a five-lined staff, we place different clefs to produce different voices (tracks). The following picture shows a score of the big dipper, which contains three voices (tracks) with treble, alto and bass clefs.
+
+<p align="center">
+<img src="../images/score.jpg" width="400"></a>
+</p>
 
 For each track, we generate a MIDI-like data structure that contains the onset time, note number, velocity and gate time for each note in a score. The brightness of a star impacts the velocity of its corresponding note. Our algorithm can also produce a chord from a single note, as preferred. Then, we synthesize a particular instrument sound for each note, according to a given clef. For example, piano and violin sounds may be synthesized with the treble clef, viola sound may be synthesized with the alto clef, and cello sound may be synthesized with the bass clef.
 
