@@ -1,7 +1,7 @@
 ## Constellation Sonifier
 
 <p align="center">
-<a href="https://youtu.be/PuvCo-NGgwE"><img src="../images/sonifier-demo-thumnail.jpg" width="500"></a>
+<a href="https://www.youtube.com/watch?v=TIL6tOWSv4Y><img src="../images/sonifier-demo-thumnail.jpg" width="500"></a>
 </p>
 
 Our sonifier is intended to sonify the stars in constellations, rather than complex telescope images. Starting with simpler datasets, we would like to carefully analyze and validate sonification algorithms. Note that our sonifier still uses three-dimensional data - two-dimensional space with an extra dimension for the brightness of stars (apparent magnitude).
